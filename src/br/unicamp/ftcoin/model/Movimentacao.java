@@ -56,7 +56,7 @@ public class Movimentacao {
     }
 
     public void setQuantidade(double quantidade) {
-        this.quantidade = quantity;
+        this.quantidade = quantidade;
     }
 
     public Carteira getCarteira() {
